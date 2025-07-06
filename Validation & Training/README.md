@@ -617,7 +617,7 @@ class HybridRAG:
 
 **🧠 Türkiye'nin İlk Yerli Sağlık AI Altyapısı 🧠**
 
-*TEKNOFEST 2024 - Yapay Zeka ve Makine Öğrenmesi*
+*TEKNOFEST 2025 - Yapay Zeka ve Makine Öğrenmesi*
 
 ![Made in Turkey](https://img.shields.io/badge/Made%20in-Turkey-red.svg)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Advanced-blue.svg)
