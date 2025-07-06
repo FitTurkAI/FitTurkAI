@@ -256,12 +256,6 @@ def analyze_dataset(data):
 - **🇹🇷 Dil Sınırları**: Sadece Türkçe için optimize edilmiştir
 - **📅 Güncellik**: Sürekli güncellenen dinamik veri seti
 
-### 📋 Kullanım Koşulları
-
-- ✅ **İzin Verilen**: Araştırma, eğitim, geliştirme
-- ❌ **Yasak**: Ticari dağıtım, telif ihlali, spam
-- 🔄 **Attributions**: FitTürkAI projesine atıf gerekli
-
 ### 🛠️ Teknik Gereksinimler
 
 ```python
