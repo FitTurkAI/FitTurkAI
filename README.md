@@ -6,7 +6,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.30+-yellow.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-2024-red.svg)
+![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-2025-red.svg)
 
 *Türkiye'nin İlk Yerli ve Milli Sağlık Yapay Zeka Asistanı*
 
