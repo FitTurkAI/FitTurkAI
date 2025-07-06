@@ -71,8 +71,8 @@ graph TB
         N -.-> D
     end
     
-    classDef current fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    classDef future fill:#fff3e0,stroke:#e65100,stroke-width:2px,stroke-dasharray: 5 5
+    classDef current fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000
+    classDef future fill:#fff3e0,stroke:#e65100,stroke-width:2px,stroke-dasharray: 5 5,color:#000
     
     class A,B,C,D,E,F,G current
     class H,I,J,K,L,M,N future
