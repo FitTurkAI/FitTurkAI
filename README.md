@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.30+-yellow.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-Aphace-green.svg)
 ![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-2025-red.svg)
 
 *Türkiye'nin İlk Yerli ve Milli Sağlık Yapay Zeka Asistanı*
@@ -415,10 +415,11 @@ FitTürkAI açık kaynak bir projedir ve topluluk katkılarını memnuniyetle ka
 
 ### 👥 Proje Ekibi
 
-- **🏗️ Proje Lideri**: Bilal
-- **🧠 AI/ML Uzmanı**: [İsim] 
-- **💻 Yazılım Geliştirici**: [İsim]
-- **📊 Veri Bilimci**: Bilal Abiç
+- **🧠 Dr. Murat Aydoğan
+- **🧠 Sudenur Öztürk
+- **🧠 Atakan Yılmaz
+- **🧠 Kağan Arıbaş
+- **🧠 Bilal Abiç
 
 ### 📧 İletişim Kanalları
 
@@ -432,7 +433,7 @@ FitTürkAI açık kaynak bir projedir ve topluluk katkılarını memnuniyetle ka
 
 ## 📜 Lisans
 
-Bu proje MIT Lisansı altında yayınlanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje Apache Lisansı altında yayınlanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
 
