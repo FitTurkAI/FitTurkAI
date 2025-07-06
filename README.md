@@ -52,32 +52,30 @@ FitTürkAI, Türkçe dilinde sağlık, diyet ve yaşam tarzı danışmanlığı 
 
 ```mermaid
 graph TB
-    subgraph "Mevcut Sistem"
-        A[Kullanıcı Girdisi] --> B[Turkish Text Processor]
-        B --> C[Cosmos Turkish 8B v0.1]
-        C --> D[QLoRA Fine-tuned Model]
-        D --> E[Personalized Response]
-        E --> F[Gradio Web Interface]
-        E --> G[Terminal/Console Interface]
+ subgraph "✅ Mevcut Sistem"
+        A["👤 Kullanıcı Girdisi"] --> B["🔤 Turkish Text Processor"]
+        B --> C["🧠 Cosmos Turkish 8B v0.1"]
+        C --> D["⚡ QLoRA Fine-tuned Model"]
+        D --> E["💬 Personalized Response"]
+        E --> F["🌐 Gradio Web Interface"]
+        E --> G["💻 Terminal/Console Interface"]
     end
     
-    subgraph "Gelecek Geliştirmeler (Roadmap)" 
-        H[RAG Retrieval System] -.-> I[FAISS Vector Store]
-        J[PDF Sources] -.-> K[PDF Processor]
-        L[JSON Sources] -.-> M[JSON Processor]
+    subgraph "🚀 Gelecek Geliştirmeler - Roadmap"
+        H["📚 RAG Retrieval System"] -.-> I["🔍 FAISS Vector Store"]
+        J["📄 PDF Sources"] -.-> K["📑 PDF Processor"]
+        L["📊 JSON Sources"] -.-> M["🔧 JSON Processor"]
         K -.-> I
         M -.-> I
-        I -.-> N[Context Enrichment]
+        I -.-> N["🎯 Context Enrichment"]
         N -.-> D
     end
     
-    style H fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
-    style I fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
-    style J fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
-    style K fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
-    style L fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
-    style M fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
-    style N fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
+    classDef current fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef future fill:#fff3e0,stroke:#e65100,stroke-width:2px,stroke-dasharray: 5 5
+    
+    class A,B,C,D,E,F,G current
+    class H,I,J,K,L,M,N future
 ```
 
 ### 🔧 Teknoloji Yığını
